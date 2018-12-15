@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="JS Tracker.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>JS Tracker</title>
+</head>
+<body onload="fetchIssues()">
+
+        <div class="icon-bar">
+                <a href="#" class="facebook"><i class="fa fa-facebook"></i></a> 
+                <a href="#" class="twitter"><i class="fa fa-twitter"></i></a> 
+                <a href="#" class="google"><i class="fa fa-google"></i></a> 
+                <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="#" class="youtube"><i class="fa fa-youtube"></i></a> 
+        </div>
+
+    <div>
+        <h1 style="display:inline;margin-left: 370px">JS Tracker Issues </h1><small>By Hani Irenat</small>
+    </div>
+
+    <div class="cont">
+        <h2>Add New Issue</h2> 
+        <span style="display: block;">Description</span>
+        <input type="text" id="desc-inp" class="wid">
+        <span style="display:block;">Sevarlity</span>
+        <select id="serv-inp" class="wid">
+            <option id='low'>Low</option>
+            <option id='medium'>Medium</option>
+            <option id='diff'>Difficult</option>
+        </select>
+        <span style="display:block;">Assigned To</span> 
+        <input type="text" id="assto-inp" class="wid">
+        <button id="Add">Add</button>
+    </div>
+
+    <!-- <h5>Issue ID : 456465DSFSDFWFEfsf545646</h5>
+    <span>Closed</span> <br>
+    <h3> This is the Description</h3>
+    <span>Low</span> <br>
+    <span>Assinged To: </span> <br>
+    <button id="closebtn">Close</button>
+    <button id="deletebtn">Delete</button> -->
+    <div id="issuesList"></div>
+    <div id="goup">
+        <img src="up_icon.png">
+    </div>
+    <h4 style="margin-left: 370px">&copy;CopyRight Reserved, Hani Irenat</h4>
+    <script src="JS Tracker.js"></script>
+</body>
+</html>
