@@ -1,31 +1,5 @@
 # JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript# JS-Tracker-Issues
-JS Tracker Issues using pure Javascript
+
+Creating Simple Issues Tracker Using Vanilla JS , all of this for practicing only.
+
+it's an idea came to my mind , so I make it real.
